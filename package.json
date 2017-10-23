@@ -1,0 +1,14 @@
+{
+  "name": "pagegetter",
+  "version": "1.0.0",
+  "description": "简单的页面中转和转码服务，用于协助不能进行页面转码的其他服务",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iconv-lite": "^0.4.19"
+  }
+}
